@@ -11,8 +11,8 @@
  }
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/yudi-melian-sanchez)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://yudimeliansanchez.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yudi?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/yudi-melian-sanchez)
+[![Web](https://img.shields.io/badge/yudimeliansanchez.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://yudimeliansanchez.es)
 <h3>
   🚀 Principal Stack
 </h3> 
