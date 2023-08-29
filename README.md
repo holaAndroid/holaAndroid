@@ -12,7 +12,9 @@
  }
 ```
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn)?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/yudi-melian-sanchez)
+<img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=express&logoColor=white">
+img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=express&logoColor=white">
 <h3>
   🚀 Principal Stack
 </h3> 
