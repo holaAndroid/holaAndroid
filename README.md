@@ -12,7 +12,7 @@
  }
 ```
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yudi-melian-sanchez?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/yudi-melian-sanchez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/yudi-melian-sanchez)
 <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=4EA94B">
 <img src="https://img.shields.io/badge/Twitch-20232A?style=for-the-badge&logo=twitch&logoColor=61DAFB">
 <h3>
