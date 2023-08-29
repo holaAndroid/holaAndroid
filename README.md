@@ -5,17 +5,20 @@
    “role” : “Frontend Dev | MERN Stack”,
    “data” : 
      { 
-      "Linkedin" : "www.linkedin.com/in/yudi-melian-sanchez", 
-      "Resume"   : "yudimeliansanchez.es",
-      “Blogger"       : "https://xatakalinux.wordpress.com"
+      "Resume"   : "https://yudimeliansanchez.es",
+      “Blogger"  : "https://xatakalinux.wordpress.com"
      }
  }
-```
 
+## Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/yudi-melian-sanchez)
+[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://yudimeliansanchez.es)
 <h3>
   🚀 Principal Stack
 </h3> 
 <p>
+  [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+  [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -55,5 +58,7 @@
 
 -  Azure / Docker / WordPress + Elementor  
 - Advance React JS
-- Advance SQL 
+- Java
 </br>
+## Contacto y apoyo:
+[![Email](https://img.shields.io/badge/email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:yudimeliansanchez@gmail.com)
