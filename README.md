@@ -60,5 +60,6 @@
 
 -  Azure / Docker / WordPress + Elementor  
 - Advance React JS
-- Java 
+- Java
+- Angular 
 </br>
