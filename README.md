@@ -58,7 +58,7 @@
 
 ### 🌱 I'm currently learning... / Last Projects
 
--  Azure / Docker / WordPress + Elementor  
+-  Azure / Docker 
 - Advance React JS
 - Java
 - Angular 
