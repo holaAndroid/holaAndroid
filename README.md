@@ -5,8 +5,7 @@
    “role” : “Frontend Dev | MERN Stack”,
    “data” : 
      { 
-      "Linkedin" : "www.linkedin.com/in/yudi-melian-sanchez", 
-      "Resume"   : "yudimeliansanchez.es",
+      "Linkedin" : "www.linkedin.com/in/yudimeliansanchez",
       “Blogger"       : "https://xatakalinux.wordpress.com"
      }
  }
